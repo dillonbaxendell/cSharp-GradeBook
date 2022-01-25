@@ -1,0 +1,15 @@
+/Users/dillon.baxendell/Desktop/development/cSharp/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook
+/Users/dillon.baxendell/Desktop/development/cSharp/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.deps.json
+/Users/dillon.baxendell/Desktop/development/cSharp/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.runtimeconfig.json
+/Users/dillon.baxendell/Desktop/development/cSharp/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.dll
+/Users/dillon.baxendell/Desktop/development/cSharp/gradebook/src/GradeBook/bin/Debug/net6.0/ref/GradeBook.dll
+/Users/dillon.baxendell/Desktop/development/cSharp/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.pdb
+/Users/dillon.baxendell/Desktop/development/cSharp/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.csproj.AssemblyReference.cache
+/Users/dillon.baxendell/Desktop/development/cSharp/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dillon.baxendell/Desktop/development/cSharp/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.AssemblyInfoInputs.cache
+/Users/dillon.baxendell/Desktop/development/cSharp/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.AssemblyInfo.cs
+/Users/dillon.baxendell/Desktop/development/cSharp/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/dillon.baxendell/Desktop/development/cSharp/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.dll
+/Users/dillon.baxendell/Desktop/development/cSharp/gradebook/src/GradeBook/obj/Debug/net6.0/ref/GradeBook.dll
+/Users/dillon.baxendell/Desktop/development/cSharp/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.pdb
+/Users/dillon.baxendell/Desktop/development/cSharp/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.genruntimeconfig.cache
